@@ -1,6 +1,6 @@
 # osu!taiko ranking criteria
 
-***注意: このドキュメントは [general ranking criteria](/wiki/Ranking_criteria) の拡張です。***
+***注意: このドキュメントは [一般的な ranking criteria](/wiki/Ranking_criteria) の拡張です。***
 
 この **osu!taiko ranking criteria (osu!taiko譜面のランク基準)** は、[osu!taiko](/wiki/Game_mode/osu!taiko) 特有の [ビートマップ](/wiki/Beatmap) が [ビートマップのランキング手順](/wiki/Beatmap_ranking_procedure) を進行するために従う必要がある、[ルールとガイドライン](/wiki/Ranking_criteria) を定めたものです。
 
