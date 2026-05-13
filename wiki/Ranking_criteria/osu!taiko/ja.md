@@ -2,7 +2,7 @@
 
 ***注意: このドキュメントは [一般的な ranking criteria](/wiki/Ranking_criteria) の拡張です。***
 
-この **osu!taiko ranking criteria (osu!taiko譜面のランク基準)** は、[osu!taiko](/wiki/Game_mode/osu!taiko) 特有の [ビートマップ](/wiki/Beatmap) が [ビートマップのランキング手順](/wiki/Beatmap_ranking_procedure) を進行するために従う必要がある、[ルールとガイドライン](/wiki/Ranking_criteria) を定めたものです。
+この **osu!taiko ranking criteria** は、[osu!taiko](/wiki/Game_mode/osu!taiko) 特有の [ビートマップ](/wiki/Beatmap) が [ビートマップのランキング手順](/wiki/Beatmap_ranking_procedure) を進行するために従う必要がある、[ルールとガイドライン](/wiki/Ranking_criteria) を定めたものです。
 
 ## 用語集
 
@@ -18,12 +18,12 @@
 
 ### ゲームプレイ
 
-- **ドン/赤い音符 (Don / Red note):** Drum Centre に割り当てられた任意のキー（デフォルトでは `X`, `C`）で叩くことができる音符です。
-- **カツ/青い音符 (Kat / Blue note):** Drum Rim に割り当てられた任意のキー（デフォルトでは `Z`, `V`）で叩くことができる音符です。
-- **大きいドン/大きい赤い音符/大音符 (Big don / Big red note / Finisher note):** 両方の Drum Centre キーを同時押しすることで追加スコアを得ることができる強い音符です。
-- **大きいカツ/大きい青い音符/大音符 (Big kat / Big blue note / Finisher note):** 両方の Drum Rim キーを同時押しすることで追加スコアを得ることができる強い音符です。
+- **ドン / 赤い音符 (Don / Red note):** Drum Centre に割り当てられた任意のキー（デフォルトでは `X`, `C`）で叩くことができる音符です。
+- **カツ / 青い音符 (Kat / Blue note):** Drum Rim に割り当てられた任意のキー（デフォルトでは `Z`, `V`）で叩くことができる音符です。
+- **大きいドン / 大きい赤い音符 / 大音符 (Big don / Big red note / Finisher note):** 両方の Drum Centre キーを同時押しすることで追加スコアを得ることができる強い音符です。
+- **大きいカツ / 大きい青い音符 / 大音符 (Big kat / Big blue note / Finisher note):** 両方の Drum Rim キーを同時押しすることで追加スコアを得ることができる強い音符です。
 - **BPM:** 楽曲のテンポを決定するために使用される "beats per minute" の略称です。
-- **スライダー/連打 (Slider/Drumroll):** 内部に目盛りを持つ黄色いバーで、割り当てられた任意のキーで演奏することができます。目盛りは通常、楽曲 BPM に応じて 1/4 のリズムで配置されます。BPM が 125 未満の場合は 1/8、250 を超える場合は 1/2 に変化します。Slider Tick Rate が 3 に設定されている場合、1/3 のリズムで配置されます。
+- **スライダー / 連打 (Slider / Drumroll):** 内部に目盛りを持つ黄色いバーで、割り当てられた任意のキーで演奏することができます。目盛りは通常、楽曲 BPM に応じて 1/4 のリズムで配置されます。BPM が 125 未満の場合は 1/8、250 を超える場合は 1/2 に変化します。Slider Tick Rate が 3 に設定されている場合、1/3 のリズムで配置されます。
 - **スピナー (Spinner):** プレイヤーがドンとカツを交互に一定回数叩く必要がある円形オブジェクトです。必要回数はスピナーの中央に表示され、譜面の Overall Difficulty (OD) およびスピナーの長さによって決定されます。
 - **小節線 (Bar line):** プレイフィールド上に表示され、小節の開始位置を示す線です。
 - **オーバーラップ (Overlap):** プレイフィールド上で、他の音符の一部または全体を覆っている音符です。
